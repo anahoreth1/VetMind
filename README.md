@@ -119,7 +119,7 @@ To run a more thorough test suite, convert these scripts to `pytest` format and 
  
 ## License
 
-No license is defined in the repository by default. If you are the project owner, add a `LICENSE` file with the appropriate terms.
+This project is licensed under the [MIT License](LICENSE).
 
 ## Authors
 - Raman Bylina: raman.bylina@gmail.com
